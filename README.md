@@ -1,7 +1,9 @@
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
-<h2>## Hi👋 This is SHUBHAM </h2>x
+<h2>## Hi👋 This is SHUBHAM </h2>
+
+<H2>Frontend Developer | Building Responsive & Modern UI | React.js • JavaScript | MERN Stack Enthusiast | MCA Final Year | Open to Internship</H2>
 
 <!--
 **Subhugithub/Subhugithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
