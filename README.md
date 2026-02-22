@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
-## Hi there 👋
+<h2>## Hi👋 This is SHUBHAM </h2>x
 
 <!--
 **Subhugithub/Subhugithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
